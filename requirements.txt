@@ -1,0 +1,6 @@
+pandas
+matplotlib
+scikit-learn
+pycountry
+pycountry-convert
+jupyter
