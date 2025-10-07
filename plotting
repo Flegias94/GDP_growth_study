@@ -1,0 +1,4 @@
+plt.bar() → bar chart (top/bottom 10 GrowthRate)
+plt.plot() → line chart (GDP over time for a few countries)
+plt.hist() → histogram (distribution of GrowthRate)
+plt.scatter() → scatterplot (e.g., GDP 2020 vs GrowthRate)
