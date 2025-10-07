@@ -44,7 +44,9 @@ jupyter notebook analysis.ipynb
 # or run the script
 python analysis.py
 ```
+
 **Notebook guide (analysis.ipynb)**
+
 1. Load and inspect data (shape, columns, missing values).
 2. Compute Growth and GrowthRate from 2020 to 2025.
 3. Map Country to Region (continent); summarize by region.
@@ -56,11 +58,12 @@ python analysis.py
   - Regional mean/median trends by year.
   - Scatter: GDP vs GDP per capita (log-scaled GDP).
 
-**Outputs**
+## Outputs
+
 Tables saved to outputs/ (e.g., regional summaries, rank changes).
 Figures saved to charts/ (e.g., top 10 per-capita bar chart, region trends).
 
-**Notes**
+## Notes
 
 GDP values are treated as millions of USD unless otherwise noted.
 If pycountry-convert fails for some names, a small manual mapping is applied inside the notebook/script
