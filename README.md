@@ -49,7 +49,7 @@ python analysis.py
 3. Map Country to Region (continent); summarize by region.
 4. Merge GDP with population and compute GDP_per_capita.
 5. Rank countries by GDP per capita per year; compute rank changes (2020 → 2023).
-6.Visualize:
+6. Visualize:
   - Distribution of growth rates and GDP per capita.
   - Top/bottom countries by GDP per capita in the latest year.
   - Regional mean/median trends by year.
