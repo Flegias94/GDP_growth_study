@@ -17,6 +17,7 @@ Practice data analysis project exploring GDP totals and GDP per capita across co
 Python, pandas, matplotlib, scikit-learn (scalers), pycountry-convert/pycountry.
 
 ## Repository structure
+```bash
 analysis.ipynb # main notebook (recommended entry point)
 analysis.py # script version of the analysis (optional)
 data/
@@ -25,7 +26,7 @@ pop_data.csv
 charts/ # saved figures (created at run time)
 outputs/ # saved tables (created at run time)
 requirements.txt
-
+```
 
 ## Quickstart
 ```bash
